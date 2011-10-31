@@ -1,0 +1,17 @@
+bab77fb9605202d84159f42782fb58bc *ChangeLog
+ba0f4ec787c96f0ba6c81c53746d4f27 *DESCRIPTION
+1873c959800e29ac35bf59e1d6f90931 *NAMESPACE
+2c8e368974092d67754c0b3febcaf8a3 *R/internals.R
+3005f8c62ee4cd2106c9f3a9d171aa50 *R/rf_base.R
+5dd0f17d2e9beff27577f5ac2c59325a *R/rf_deriv_integral.R
+4fa0fc7c37d79e7f26aba626653f0f69 *R/rf_operators.R
+d9bcb243fe105a67828d651b664c5642 *man/Ops.rationalfun.Rd
+09b8c67b0296bdf184e5b03b29efe293 *man/as.character.rationalfun.Rd
+a17788d722328311286d67d96bd6e755 *man/as.function.rationalfun.Rd
+b2d3908946c9d2c3215c8e9f4efa201b *man/deriv.rationalfun.Rd
+88b7346e986c182538936190b3aeb3a1 *man/int2fun.Rd
+aac2a9734ffa20a1291eb16904df328c *man/integral.rationalfun.Rd
+8aa335dc420d2908782385420bcf870c *man/predict.rationalfun.Rd
+5c5adb9ad3318662877053dd5c02eab7 *man/print.rationalfun.Rd
+1e2732237a6076c620e33bd4af85d1bc *man/rationalfun.Rd
+60bdd945eebfe60f66f1db369514db5e *man/simplify.Rd
