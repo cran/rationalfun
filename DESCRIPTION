@@ -1,11 +1,9 @@
 Package: rationalfun
-Version: 0.1-0
-Date: 2011-10-31
+Version: 0.1-1
+Date: 2022-03-05
 Title: Manipulation of Rational Functions
-Description: This package provides several functions to
-    manipulate rational functions, including basic
-    arithmetic operators, derivatives and integrals with
-    EXPLICIT forms.
+Description: Functions to manipulate rational functions, including basic
+    arithmetic operators, derivatives, and integrals with EXPLICIT forms.
 Author: Yixuan Qiu <yixuan.qiu@cos.name>
 Maintainer: Yixuan Qiu <yixuan.qiu@cos.name>
 Depends: polynom
@@ -15,6 +13,7 @@ BugReports: https://github.com/yixuan/rationalfun/issues
 License: GPL
 Collate: 'internals.R' 'rf_base.R' 'rf_deriv_integral.R'
         'rf_operators.R'
-Packaged: 2011-10-31 12:57:12 UTC; dell
+NeedsCompilation: no
+Packaged: 2022-03-05 14:03:23 UTC; qyx
 Repository: CRAN
-Date/Publication: 2011-11-02 17:26:35
+Date/Publication: 2022-03-05 15:50:04 UTC
